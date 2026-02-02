@@ -1,6 +1,6 @@
 from app.client import app
 
-from handlers import start
+from handlers import start , callbacks
 
 
 if __name__ == '__main__':
